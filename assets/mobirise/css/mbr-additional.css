@@ -810,7 +810,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7EbaQ5Y53 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-s7EbaQ5Y53 .mbr-section-subtitle {
@@ -926,6 +926,27 @@ section.lazy-placeholder:after {
 }
 .cid-s7EbaQ5Y53 .mbr-timeline-title {
   text-align: center;
+}
+.cid-s7PQMDt8NN {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s7PQMDt8NN .mbr-text,
+.cid-s7PQMDt8NN blockquote {
+  color: #767676;
+}
+.cid-s7PSvvt6eE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #465052;
+}
+.cid-s7PSvvt6eE .mbr-text,
+.cid-s7PSvvt6eE blockquote {
+  color: #767676;
+}
+.cid-s7PSvvt6eE .mbr-text {
+  color: #efefef;
 }
 .cid-s7ElrpL4WS {
   padding-top: 30px;
